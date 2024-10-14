@@ -1,1 +1,1 @@
-console.log("HAMZA")
+const pair = "hamza";
